@@ -31,17 +31,17 @@
 // console.log(numriMeiMadh(3,5));
 
 //4 rpepatword
-function repeatWord(fjala, numriiPerseritjeve) {
-    if (fjala == "scantech"){
-        console.log("nuk e printojme kete fjale");
-        return;
-    }
-    for (let i = 1; i <= numriiPerseritjeve; i++) {
-        console.log(fjala);
-    }
- }
+// function repeatWord(fjala, numriiPerseritjeve) {
+//     if (fjala == "scantech"){
+//         console.log("nuk e printojme kete fjale");
+//         return;
+//     }
+//     for (let i = 1; i <= numriiPerseritjeve; i++) {
+//         console.log(fjala);
+//     }
+//  }
 
- repeatWord("scantech", 15);
- repeatWord("mirjeta292", 10);
- repeatWord("a", 100);
- repeatWord(112345, 4);
+//  repeatWord("scantech", 15);
+//  repeatWord("mirjeta292", 10);
+//  repeatWord("a", 100);
+//  repeatWord(112345, 4);
